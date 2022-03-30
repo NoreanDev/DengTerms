@@ -19,14 +19,16 @@ Entre los datos que recopila son los siguientes:
 ### 🌐 **Derechos de usuario**
 
 En particular, los Usuarios tienen derecho a lo siguiente:
-  ◼ **Retirar su consentimiento en cualquier momento.** Los usuarios tienen derecho a retirar el consentimiento cuando hayan dado previamente su consentimiento para el procesamiento de sus Datos personales.
-  ◼ **Oponerse al tratamiento de sus Datos.** Los usuarios tienen derecho a oponerse al procesamiento de sus Datos si el procesamiento se lleva a cabo sobre una base legal distinta del consentimiento. Se proporcionan más detalles en la sección dedicada a continuación.
-  ◼ **Acceder a sus Datos.** Los usuarios tienen derecho a saber si el Titular está procesando los Datos, obtener información sobre ciertos aspectos del procesamiento y obtener una copia de los Datos que se están procesando.
-  ◼ **Verificar y solicitar la rectificación.** Los usuarios tienen derecho a verificar la exactitud de sus Datos y solicitar que se actualicen o corrijan.
-  ◼ **Restringir el tratamiento de sus Datos.** Los usuarios tienen derecho, en determinadas circunstancias, a restringir el tratamiento de sus Datos. En este caso, el Titular no tratará sus Datos con otra finalidad que la de almacenarlos.
-  ◼ **Hacer que se eliminen o eliminen sus Datos personales.** Los usuarios tienen derecho, en determinadas circunstancias, a obtener del Titular la supresión de sus Datos.
-  ◼ **Recibir sus Datos y transferirlos a otro controlador.** Los usuarios tienen derecho a recibir sus Datos en un formato estructurado, de uso común y lectura mecánica y, si es técnicamente posible, a que se transmitan a otro responsable del tratamiento sin ningún impedimento. Esta disposición es aplicable siempre que los Datos sean tratados por medios automatizados y que el tratamiento se base en el consentimiento del Usuario, en un contrato del que el Usuario sea parte o en obligaciones precontractuales del mismo.
-  ◼ **Presenta una queja.** Los usuarios tienen derecho a presentar una reclamación ante la autoridad de protección de datos competente.
+   # ◼ **Retirar su consentimiento en cualquier momento.** Los usuarios tienen derecho a retirar el consentimiento cuando hayan dado previamente su consentimiento para el procesamiento de sus Datos personales.
+  # ◼ **Oponerse al tratamiento de sus Datos.** Los usuarios tienen derecho a oponerse al procesamiento de sus Datos si el procesamiento se lleva a cabo sobre una base legal distinta del consentimiento. Se proporcionan más detalles en la sección dedicada a continuación.
+  # ◼ **Acceder a sus Datos.** Los usuarios tienen derecho a saber si el Titular está procesando los Datos, obtener información sobre ciertos aspectos del procesamiento y obtener una copia de los Datos que se están procesando.
+  # ◼ **Verificar y solicitar la rectificación.** Los usuarios tienen derecho a verificar la exactitud de sus Datos y solicitar que se actualicen o corrijan.
+  # ◼ **Restringir el tratamiento de sus Datos.** Los usuarios tienen derecho, en determinadas circunstancias, a restringir el tratamiento de sus Datos. En este caso, el Titular no tratará sus Datos con otra finalidad que la de almacenarlos.
+  # ◼ **Hacer que se eliminen o eliminen sus Datos personales.** Los usuarios tienen derecho, en determinadas circunstancias, a obtener del Titular la supresión de sus Datos.
+  # ◼ **Recibir sus Datos y transferirlos a otro controlador.** Los usuarios tienen derecho a recibir sus Datos en un formato estructurado, de uso común y lectura mecánica y, si es técnicamente posible, a que se transmitan a otro responsable del tratamiento sin ningún impedimento. Esta disposición es aplicable siempre que los Datos sean tratados por medios automatizados y que el tratamiento se base en el consentimiento del Usuario, en un contrato del que el Usuario sea parte o en obligaciones precontractuales del mismo.
+  # ◼ **Presenta una queja.** Los usuarios tienen derecho a presentar una reclamación ante la autoridad de protección de datos competente.
+
+  Estos datos se almancenan temporalmente y una vez que expire el período de retención, los Datos personales se eliminarán. Por tanto, el derecho de acceso, el derecho de supresión, el derecho de rectificación y el derecho a la portabilidad de los datos no podrán ser ejercitados una vez transcurrido el plazo de conservación.
 
 
 ### ❗ **Extras**
